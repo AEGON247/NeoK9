@@ -105,7 +105,7 @@ const TechnicalDetailsSection: React.FC = () => {
   return (
     <div 
       ref={sectionRef} 
-      className="min-h-screen bg-gradient-to-b from-gray-900 to-black text-white py-20"
+      className="min-h-screen bg-gradient-to-b from-gray-1050 to-teal-950 text-white py-20"
     >
       <div className="container mx-auto px-6">
         {/* Header */}
