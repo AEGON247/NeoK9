@@ -108,7 +108,7 @@ npm start
 
 ## 🎥 **Demo**
 
-![NovaK9 Demo GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftechcrunch.com%2F2019%2F03%2F19%2Faibo-learns-a-new-trick-with-security-upgrade%2F&psig=AOvVaw1KIQbcu1c8-blul1682W2s&ust=1756106577072000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjJ2vf0oo8DFQAAAAAdAAAAABAS) <!-- Replace with animation of your robot -->
+<h1><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftechcrunch.com%2F2019%2F03%2F19%2Faibo-learns-a-new-trick-with-security-upgrade%2F&psig=AOvVaw1KIQbcu1c8-blul1682W2s&ust=1756106577072000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjJ2vf0oo8DFQAAAAAdAAAAABAS" width = 100 allign="center"></h1>
 
 ---
 
