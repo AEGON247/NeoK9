@@ -23,13 +23,13 @@ function App() {
     {
       title: "All-Terrain Explorer",
       subtitle: "BUILT FOR ADVENTURE",
-      description: "From city streets to mountain trails, NeoGuard's advanced mobility system conquers any terrain. Dynamic balance control and adaptive leg mechanisms ensure stability in any environment.",
+      description: "From city streets to mountain trails, NovaK9's advanced mobility system conquers any terrain. Dynamic balance control and adaptive leg mechanisms ensure stability in any environment.",
       image: "/assets/FrontAnime.png",
     },
     {
       title: "Guardian Protocol",
       subtitle: "SECURITY FIRST",
-      description: "Advanced sensor arrays and AI-powered threat detection keep your home secure. NeoGuard's guardian mode provides 24/7 monitoring with intelligent alerts and autonomous response capabilities.",
+      description: "Advanced sensor arrays and AI-powered threat detection keep your home secure. NovaK9's guardian mode provides 24/7 monitoring with intelligent alerts and autonomous response capabilities.",
       image: "/assets/SideAnime.png",
       reverse: true
     }

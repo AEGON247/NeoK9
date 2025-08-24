@@ -77,7 +77,7 @@ const VideoHero: React.FC = () => {
       >
         <div className="text-center">
           <h1 className="text-8xl md:text-9xl font-black text-white mb-4 tracking-wider">
-            NeoGuard
+            NovaK9
           </h1>
           <p className="text-xl md:text-2xl text-white/80 font-light tracking-widest">
             THE NEXT EVOLUTION OF COMPANIONSHIP
@@ -106,7 +106,7 @@ const VideoHero: React.FC = () => {
             }}
             className="pointer-events-auto bg-white text-black px-8 py-4 text-lg font-semibold hover:bg-gray-200 transition-colors"
           >
-            DISCOVER NeoGuard
+            DISCOVER NovaK9
           </button>
         </div>
       </div>

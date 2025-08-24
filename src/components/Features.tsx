@@ -14,7 +14,7 @@ const Features: React.FC = () => {
     {
       icon: Heart,
       title: "Emotional Intelligence",
-      description: "NeoGuard reads your emotions and responds with the perfect companionship for any moment.",
+      description: "NovaK9 reads your emotions and responds with the perfect companionship for any moment.",
       image: "https://images.pexels.com/photos/8566528/pexels-photo-8566528.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop"
     },
     {
@@ -32,7 +32,7 @@ const Features: React.FC = () => {
     {
       icon: Brain,
       title: "Adaptive Learning",
-      description: "NeoGuard learns your routines and preferences to serve you better every day.",
+      description: "NovaK9 learns your routines and preferences to serve you better every day.",
       image: "https://images.pexels.com/photos/8566526/pexels-photo-8566526.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop"
     }
   ];
@@ -53,7 +53,7 @@ const Features: React.FC = () => {
             </span>
           </h2>
           <p className="text-xl text-gray-400 max-w-3xl mx-auto">
-            Discover the revolutionary capabilities that make NeoGuard more than just a robot.
+            Discover the revolutionary capabilities that make NovaK9 more than just a robot.
           </p>
         </motion.div>
 

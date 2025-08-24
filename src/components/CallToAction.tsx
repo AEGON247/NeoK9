@@ -27,7 +27,7 @@ const CallToAction: React.FC = () => {
             </span>
           </h2>
           <p className="text-2xl text-gray-300 mb-12 max-w-3xl mx-auto leading-relaxed">
-            Experience the future of companionship. NeoGuard is more than technology—
+            Experience the future of companionship. NovaK9 is more than technology—
             it's family.
           </p>
           
@@ -37,7 +37,7 @@ const CallToAction: React.FC = () => {
               whileTap={{ scale: 0.95 }}
               className="group inline-flex items-center gap-3 bg-gradient-to-r from-cyan-500 to-blue-500 px-12 py-5 rounded-full text-xl font-semibold hover:shadow-2xl hover:shadow-cyan-500/25 transition-all duration-300"
             >
-              Unleash NeoGuard
+              Unleash NovaK9
               <ArrowRight className="w-6 h-6 group-hover:translate-x-1 transition-transform" />
             </motion.button>
             

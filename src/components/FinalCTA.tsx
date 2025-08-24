@@ -7,7 +7,7 @@ const FinalCTA: React.FC = () => {
 
   const footerLinks = [
     {
-      title: 'NeoGuard',
+      title: 'NovaK9',
       links: [
         { name: 'About Us', href: '#team' },
         { name: 'Our Vision', href: '#vision' },
@@ -59,7 +59,7 @@ const FinalCTA: React.FC = () => {
                 <Cpu className="w-8 h-8 text-white" />
               </div>
               <span className="text-2xl font-bold bg-gradient-to-r from-cyan-400 to-teal-400 bg-clip-text text-transparent">
-                NeoGuard
+                NovaK9
               </span>
             </motion.div>
             
@@ -84,7 +84,7 @@ const FinalCTA: React.FC = () => {
             >
               <div className="flex items-center space-x-3 text-gray-400">
                 <Mail className="w-4 h-4 text-cyan-400" />
-                <span>contact@neoguard.ai</span>
+                <span>contact@novak9.ai</span>
               </div>
               <div className="flex items-center space-x-3 text-gray-400">
                 <Phone className="w-4 h-4 text-cyan-400" />
@@ -136,7 +136,7 @@ const FinalCTA: React.FC = () => {
               transition={{ duration: 0.6 }}
               viewport={{ once: true }}
             >
-              © {currentYear} NeoGuard. All rights reserved. Built with precision, passion and ❤.
+              © {currentYear} NovaK9. All rights reserved. Built with precision, passion and ❤.
             </motion.p>
 
             {/* Social Links */}

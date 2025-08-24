@@ -9,7 +9,7 @@ const Vision: React.FC = () => {
     {
       icon: Cpu,
       title: 'Smart Motion Core',
-      description: '6-DoF sensing for stable movement',
+      description: 'IMU for stable movement',
       gradient: 'from-cyan-500 to-teal-500',
     },
     {

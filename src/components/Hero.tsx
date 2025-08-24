@@ -16,7 +16,7 @@ const Hero: React.FC = () => {
       >
         <img 
           src="https://images.pexels.com/photos/8566473/pexels-photo-8566473.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop"
-          alt="NeoGuard Robo-Dog"
+          alt="NovaK9 Robo-Dog"
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0 bg-gradient-to-b from-black/30 via-transparent to-black/60"></div>
@@ -30,7 +30,7 @@ const Hero: React.FC = () => {
           transition={{ duration: 1, delay: 0.5 }}
         >
           <h1 className="text-6xl md:text-8xl font-bold mb-6 bg-gradient-to-r from-cyan-400 to-blue-400 bg-clip-text text-transparent">
-            NeoGuard
+            NovaK9
           </h1>
           <p className="text-xl md:text-2xl text-gray-300 mb-8 max-w-2xl">
             The Next Evolution of Companionship

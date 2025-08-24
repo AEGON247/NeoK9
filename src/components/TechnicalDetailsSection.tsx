@@ -17,18 +17,18 @@ const TechnicalDetailsSection: React.FC = () => {
       category: 'Sensors',
       icon: FaSatelliteDish,
       items: [
-        { label: 'Proximity Sensors', value: '4x Ultra-sonic (front, rear, sides)' },
+        { label: 'Proximity Sensors', value: 'Ultra-sonic sensor(front)' },
         { label: 'IMU (6-DoF)', value: 'Integrated accelerometer & gyroscope' },
-        { label: 'Light Sensor', value: 'Ambient light sensor for low-light switching' },
-        { label: 'Audio Sensor', value: 'Neck Sound Sensor' },
+        { label: 'Camera Module', value: '5 megaPixel' },
+        { label: 'Audio', value: 'Sound Direction Sensor' },
       ],
     },
     {
       category: 'Power & Battery',
       icon: FaBatteryFull,
       items: [
-        { label: 'Battery Life', value: 'Up to 8 hours active use' },
-        { label: 'Charging Time', value: '2 hours fast charge' },
+        { label: 'Battery Life', value: 'Up to 30 mins active use' },
+        { label: 'Charging Time', value: '1 hour fast charge' },
         { label: 'Power Management', value: 'Smart power optimization' },
         { label: 'Standby Mode', value: '72 hours standby time' },
       ],
@@ -37,10 +37,10 @@ const TechnicalDetailsSection: React.FC = () => {
       category: 'Connectivity',
       icon: FaWifi,
       items: [
-        { label: 'Wi-Fi', value: '802.11ac dual-band' },
-        { label: 'Bluetooth', value: 'Bluetooth 5.0 Low Energy' },
+        { label: 'Receiver', value: 'FlySky FSR6B Receiver Antenna' },
+        { label: 'Transmission', value: 'FlySky FBCT6B' },
         { label: 'Mobile App', value: 'iOS & Android compatible' },
-        { label: 'Cloud Sync', value: 'Real-time data synchronization' },
+        { label: 'Dual Processing', value: 'Arduino nano & RaspberryPi 4' },
       ],
     },
     {
@@ -57,8 +57,8 @@ const TechnicalDetailsSection: React.FC = () => {
       category: 'Movement',
       icon: FaRocket,
       items: [
-        { label: 'Max Speed', value: '12 mph (19 km/h)' },
-        { label: 'Range', value: '25 miles on single charge' },
+        { label: 'Max Speed', value: '1 km/h' },
+        { label: 'Range', value: '2 km on single charge' },
         { label: 'Terrain', value: 'All-terrain adaptive legs' },
         { label: 'Stability', value: 'Dynamic balance control' },
       ],
