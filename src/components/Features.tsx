@@ -1,6 +1,6 @@
 import React, { useRef, useState } from 'react';
 import { motion, useScroll } from 'framer-motion';
-import { Cpu, Shield, Zap, Wifi, Heart } from 'lucide-react';
+import { Cpu, Shield, Baby, Eye, Heart } from 'lucide-react';
 
 const Features: React.FC = () => {
   const ref = useRef<HTMLElement>(null);
@@ -12,28 +12,28 @@ const Features: React.FC = () => {
   const features = [
     {
       icon: Cpu,
-      title: "Smart Vision",
+      title: "Smart Path",
       description: "Scans floor and obstacles in real time.\nLearns routes for smoother navigation.\nAdapts to uneven or new surfaces."
     },
     {
       icon: Shield,
       title: "Guard Mode",
-      description: "Scans floor and obstacles in real time.\nLearns routes for smoother navigation.\nAdapts to uneven or new surfaces."
+      description: "Monitors movement in restricted areas.\nSends instant alerts upon detection.\nWorks day and night reliably."
     },
     {
-      icon: Zap,
-      title: "Quick Response",
-      description: "Scans floor and obstacles in real time.\nLearns routes for smoother navigation.\nAdapts to uneven or new surfaces."
+      icon: Baby,
+      title: "Child Security",
+      description: "Watches over kids when alone.\nSends alerts on unusual activity.\nLogs movements for parental review."
     },
     {
-      icon: Wifi,
-      title: "WiFi Link",
-      description: "Scans floor and obstacles in real time.\nLearns routes for smoother navigation.\nAdapts to uneven or new surfaces."
+      icon: Eye,
+      title: "Obstacle Guide",
+      description: "Detects objects in walking path. \nPrevents accidental collisions indoors. \nGuides users through safe routes."
     },
     {
       icon: Heart,
       title: "Companion Mode",
-      description: "Scans floor and obstacles in real time.\nLearns routes for smoother navigation.\nAdapts to uneven or new surfaces."
+      description: "Responds to voice and presence. \nOffers comfort through interaction. \nAdapts to user mood patterns."
     },
   ];
 
