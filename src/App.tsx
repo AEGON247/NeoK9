@@ -8,6 +8,8 @@ import TechnicalDetailsSection from './components/TechnicalDetailsSection';
 import FinalCTA from './components/FinalCTA';
 import { useSmoothScroll } from './hooks/useSmoothScroll';
 import AboutUs from './components/AboutUs'
+import Features from './components/Features';
+import CostComparison from './components/CostComparison';
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -46,7 +48,9 @@ function App() {
           <ScrollSection id={`section-${index}`} {...section} />
         </React.Fragment>
       ))}
-      
+
+      <Features />
+      <CostComparison />
       <TechnicalDetailsSection />
       <AboutUs />
       <FinalCTA />

@@ -82,7 +82,7 @@ const TechnicalDetails: React.FC = () => {
             </span>
           </h2>
           <p className="text-xl text-gray-400 max-w-3xl mx-auto">
-            Every component of Aura has been engineered to perfection, 
+            Every component of NovaK9 has been engineered to perfection, 
             delivering unmatched performance and reliability.
           </p>
         </motion.div>
