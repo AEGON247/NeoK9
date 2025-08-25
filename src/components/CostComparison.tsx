@@ -4,11 +4,11 @@ import { useRef } from 'react';
 
 const CostComparison: React.FC = () => {
   const normalItems = [
-    { label: 'Emotional support robot', cost: 20000 },
+    { label: 'Emotional support robot', cost: 32000 },
     { label: 'Child security system', cost: 8000 },
-    { label: 'Intruder alert', cost: 2000 },
-    { label: 'Blind aid', cost: 4000 },
-    { label: 'Terrain Mapping Bot', cost: 10000 },
+    { label: 'Intruder alert', cost: 2400 },
+    { label: 'Blind aid', cost: 4200 },
+    { label: 'Terrain Mapping Bot', cost: 11500 },
   ];
 
   const totalNormalCost = normalItems.reduce((sum, item) => sum + item.cost, 0);
