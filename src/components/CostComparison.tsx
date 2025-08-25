@@ -5,9 +5,9 @@ import { useRef } from 'react';
 const CostComparison: React.FC = () => {
   const normalItems = [
     { label: 'Emotional support robot', cost: 32000 },
-    { label: 'Child security system', cost: 8000 },
+    { label: 'Child security system', cost: 6000 },
     { label: 'Intruder alert', cost: 2400 },
-    { label: 'Blind aid', cost: 4200 },
+    { label: 'Elderly/Blind assistance', cost: 4200 },
     { label: 'Terrain Mapping Bot', cost: 11500 },
   ];
 
@@ -100,7 +100,7 @@ useEffect(() => {
             whileInView={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6, delay: 0.5 }}
           >
-            35,000
+            41,999
           </motion.div>
         </motion.div>
       </div>
