@@ -72,7 +72,7 @@ const ScrollSection: React.FC<ScrollSectionProps> = ({
             <img 
               src={image}
               alt={title}
-              className="w-full h-96 object-cover rounded-lg"
+              className="w-full h-96 object-contain rounded-lg"
             />
             <div className="absolute inset-0 bg-gradient-to-r from-cyan-500/20 to-blue-500/20 rounded-lg"></div>
           </div>
